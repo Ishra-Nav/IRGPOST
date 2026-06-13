@@ -103,19 +103,9 @@ or the app output folder if Android storage restrictions require it.
 
 ## Convert Raw Logs
 
-Use the `Convert` menu to convert raw receiver logs into RINEX observation/navigation files before processing.
+Use the `Convert` menu to convert supported raw receiver logs into RINEX observation/navigation files before processing.
 
-The RINEX converter writes headers using:
-
-```text
-IRGPOST             IshraNav
-```
-
-Generated RINEX files are saved in:
-
-```text
-Documents/IRGPOST/RINEX
-```
+The converter supports only IRG09, IRG03, and IRG04 GNSS receiver raw files as input.
 
 ## Output And Report Features
 
