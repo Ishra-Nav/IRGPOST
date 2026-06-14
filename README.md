@@ -1,6 +1,10 @@
-# IRGPOST
+# IRGPOST - GNSS RTK Post-Processing App
 
-Android app for RTK GNSS post-processing.
+IRGPOST is an Android app for GNSS data processing, RTK post-processing, and RINEX rover/base solution generation. It is built for survey, geodesy, mapping, and tectonic plate study workflows that need mobile RTKLIB-style post-processing from RINEX observation and navigation files.
+
+Use IRGPOST to process standard RINEX data from GNSS receivers, including rover/base RINEX files exported by receivers such as Emlid and other survey-grade GNSS systems. The built-in raw-log converter is limited to IRG09, IRG03, and IRG04 GNSS receiver files.
+
+Search terms: GNSS data processing, RTK GNSS, RTKLIB Android, RINEX post-processing, rover base processing, GNSS survey app, Emlid RINEX processing, GPS GLONASS Galileo BDS post-processing.
 
 ## Download / Install
 
