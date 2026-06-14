@@ -4,7 +4,12 @@ IRGPOST is an Android app for GNSS data processing, RTK post-processing, and RIN
 
 Use IRGPOST to process standard RINEX data from GNSS receivers, including rover/base RINEX files exported by receivers such as Emlid and other survey-grade GNSS systems. The built-in raw-log converter is limited to IRG09, IRG03, and IRG04 GNSS receiver files.
 
-Search terms: GNSS data processing, RTK GNSS, RTKLIB Android, RINEX post-processing, rover base processing, GNSS survey app, Emlid RINEX processing, GPS GLONASS Galileo BDS post-processing.
+<!--
+Discovery keywords:
+GNSS data processing, RTK GNSS, RTKLIB Android, RINEX post-processing,
+rover base processing, GNSS survey app, Emlid RINEX processing,
+GPS, GLONASS, Galileo, BDS post-processing.
+-->
 
 ## Download / Install
 
